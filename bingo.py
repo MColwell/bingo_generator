@@ -1,4 +1,4 @@
-!#/usr/bin/env python3
+#!/usr/bin/env python3
 
 
 lines = []
@@ -44,3 +44,4 @@ lines.append("*               *               *               *               * 
 lines.append("*               *               *               *               *               *")
 lines.append("*---------------*---------------*---------------*---------------*---------------*")
 
+print(lines)
