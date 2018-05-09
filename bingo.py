@@ -44,4 +44,5 @@ lines.append("*               *               *               *               * 
 lines.append("*               *               *               *               *               *")
 lines.append("*---------------*---------------*---------------*---------------*---------------*")
 
-print(lines)
+for line in lines:
+	print(line)
