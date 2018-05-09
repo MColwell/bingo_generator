@@ -1,0 +1,1 @@
+This program is designed to take in a text file which has one string on each line. These strings cannot exceed <value?> in length. It outputs ASCII art of bingo cards with these strings and the customary Free Space in the middle.
